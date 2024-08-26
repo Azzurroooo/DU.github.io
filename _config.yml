@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "pic1.png"
-  name             : "Your Sidebar Name"
+  name             : "杜弘毅"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "清华大学2019本科23级硕士"
+  location         : "北京海淀"
+  employer         : "Tsinghua University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nmushiye@hotmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
