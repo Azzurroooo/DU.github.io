@@ -15,7 +15,7 @@ title: "Example with Video"
 Here is an example video:
 
 <video width="600" autoplay loop muted>
-  <source src="../videos/wuduxiangsheng.mp4" type="video/mp4">
+  <source src="videos/wuduxiangsheng.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
